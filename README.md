@@ -1,7 +1,5 @@
 # Labview-Basics
 
-Sure, I'll create a comprehensive markdown guide for LabVIEW based on the documentation provided. Here's the initial structure for the guide:
-
 # LabVIEW Guide
 
 ## Table of Contents
